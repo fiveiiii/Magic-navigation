@@ -1,5 +1,5 @@
 from fastapi import APIRouter
-from app.models.response_data_model import ResponseModel
+from server.models.response_data_model import ResponseModel
 router = APIRouter()
 
 
